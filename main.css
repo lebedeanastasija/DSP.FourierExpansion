@@ -1,0 +1,16 @@
+body {
+    margin: 0 100px 0 100px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 850px;
+    height: 550px;
+}
+
+.menu-table {
+    padding-left: 50px;
+}
+
+.menu-btn {
+    margin-right: 20px;
+}
